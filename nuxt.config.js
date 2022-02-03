@@ -11,10 +11,7 @@ export default theme({
     liveEdit: false,
   },
   head: {
-    script: [
-      {
-        src: "https://mozilla.github.io/pdf.js/build/pdf.js",
-      },
-    ],
+    meta: [{ name: "robots", content: "none" }],
+    script: [{ src: "https://mozilla.github.io/pdf.js/build/pdf.js" }],
   },
 });

@@ -13,4 +13,4 @@ headers:
 <h1>I love helping people, 🤝<br>hanging out with friends, 👋<br>running 🏃 & good coffee ☕</h1>
 <app-color-switcher class="inline-flex ml-2"></app-color-switcher>
 
-<a href="/resume.pdf" target="_blank">Take a look at my resume!</a>
+<a href="/portfolio/resume.pdf" target="_blank">Take a look at my resume!</a>

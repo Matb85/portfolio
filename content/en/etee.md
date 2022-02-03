@@ -11,4 +11,4 @@ This is the first project I created for the Google UX Certificate. The prompt th
 
 Having no prior experience, I tried my best following the instructors' words of wisdom to create a decent prototype that would resemble the final product with the help of research. Take a look at my journey below!
 
-<pdf url="/etee.pdf"></pdf>
+<pdf url="/portfolio/etee.pdf"></pdf>

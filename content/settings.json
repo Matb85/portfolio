@@ -1,9 +1,9 @@
 {
-  "title": "Nuxt Content",
-  "url": "http://localhost:3000",
+  "title": "Hi, I'm Mateusz Bis",
+  "url": "https://matb85.github.io/portfolio/",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "/portfolio/logo-light.svg",
+    "dark": "/portfolio/logo-dark.svg"
   },
   "github": "matb85",
   "twitter": false
