@@ -11,5 +11,8 @@
   "dependencies": {
     "@nuxt/content-theme-docs": "^0.11.0",
     "nuxt": "^2.15.8"
+  },
+  "devDependencies": {
+    "pdfjs-dist": "^2.12.313"
   }
 }
