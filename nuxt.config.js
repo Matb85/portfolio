@@ -7,7 +7,6 @@ export default theme({
   },
   components: true,
   docs: {
-    primaryColor: "#E24F55",
     liveEdit: false,
   },
   head: {
