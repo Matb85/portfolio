@@ -1,6 +1,6 @@
 ---
-title: Hi, I'm Mateusz
-description: "A few word about who I am"
+title: Hi, I'm Mateusz, nice to meet You!
+description: "A few words about who I am"
 position: 1
 category: "About me"
 ---
