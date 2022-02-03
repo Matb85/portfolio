@@ -49,6 +49,6 @@
   "start_url": "/portfolio/?standalone=true",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#E24F55",
+  "theme_color": "#00CD81",
   "lang": "en"
 }
