@@ -2,6 +2,9 @@ import theme from "@nuxt/content-theme-docs";
 
 export default theme({
   target: "static",
+  router: {
+    base: "/portfolio/",
+  },
   components: true,
   docs: {
     primaryColor: "#E24F55",
